@@ -1,1 +1,2 @@
 This is a story.
+And i want to write more in this file to make it look more cool
